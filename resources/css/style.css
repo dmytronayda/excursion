@@ -20,6 +20,8 @@ h1 {
 .preview_vid {
   position: relative;
   text-align: center;
+  width: auto;
+  height: auto;
 }
 .travel_guide {
   text-align: center;
