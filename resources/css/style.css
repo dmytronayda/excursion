@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+  font-family: Verdana;
+}
+.header {
+  text-align: center;
+  width: auto;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  align-content: center;
+}
+.url {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
